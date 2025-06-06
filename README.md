@@ -1,7 +1,7 @@
 # Configuration Management with Ansible
 
-Implement a configuration management project where server configurations (Linux or Windows) are managed using Ansible. 
-The project should include creating reusable playbooks, managing environments, and automating system setup and patching.
+Hosts a configuration management portal using Flask app where server configurations (for Linux & Windows systems) can be managed through Ansible and Docker.
+The portal offers a variety of options like: creating reusable playbooks, managing environments, and automating system setup and patching.
 
 
 ## to install dependencies
